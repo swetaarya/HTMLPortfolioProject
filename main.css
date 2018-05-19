@@ -1,0 +1,13 @@
+
+.header {
+       background-color: black;
+       color: black;
+       text-align: center;
+       line-height: 90px;
+       background-image: url(https://ak8.picdn.net/shutterstock/videos/9723128/thumb/1.jpg);
+       background-position: top left;
+}
+
+.contact {
+       color: green;
+}
